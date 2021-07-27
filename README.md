@@ -1,16 +1,7 @@
 # animationnavbar
 
-A new Flutter project.
+Your can easily navigate from one page to another page with ease.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project has will help you to build effective and in more convenient way to build your bottom navigation bar for your flutter projects. With this you can go from first page to another page with ease plus you can also save your 1st page data or any other page data and reload your previous data after visiting any other pages without destroying any pages.
